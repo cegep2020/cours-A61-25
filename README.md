@@ -1,2 +1,2 @@
-# cours-A61-25
-cours 420-A61-SF-2025
+# cours-A61
+Préparation de la solution d'IA pour la mise en production
